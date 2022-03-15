@@ -1,7 +1,7 @@
 {
   "name": "@rebeccahahaha/npm-poc",
   "description": "to test npm poc",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
